@@ -1,7 +1,8 @@
-# Files added within the root directory 
-```(root = /rsvp-app in this case)```
- - lib/supabaseClient.js
+# Changes beyond default NEXT.js config
 
-# Files modified
+- Files added within the root directory ```(root = /rsvp-app in this case)```
+    - lib/supabaseClient.js ```(supabase config)```
 
- - src/app/page.js
+- Files modified
+    - src/app/layout.js ```(metadata)```
+    - src/app/page.js ```(main component implementation)```
